@@ -1,0 +1,18 @@
+Books I've found useful: 
+1) Adaptive Design Theory and Implementation Using SAS and R
+2) Bayesian Adaptive Methods for Clinical Trials 
+3) Clinical Trial Data Analysis with R and SAS
+4) Clinical Trial Optimization Using R
+5) Cure Models, Methods, Applications, and Implementation
+6) Dose-Finding Designs for Early-Phase Cancer Clinical Trials
+7) Group Sequential and Confirmatory Adaptive Designs in Clinical Trials
+8) Group Sequential Methods (Jennison, Turnbull)
+9) Methods and Applications of Statistics in Clinical Trials (Vol. 1, 2)
+10) Modern Approaches to Clinical Trials Using SAS
+11) Monte Carlo Simulation in the Pharmaceutical Industry
+12) Multiple Testing Problems in Pharmaceutical Statistics
+13) Sample Size Calculations in Clinical Research
+14) SAS programming in the pharmaceutical industry
+
+Useful literature: 
+TBA. (large list) 
