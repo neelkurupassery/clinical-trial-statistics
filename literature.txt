@@ -16,4 +16,13 @@ Books I've found useful:
 - SAS programming in the pharmaceutical industry
 
 Useful literature: 
-TBA. (large list) 
+To be added over time. (large list)  
+
+Accrual
+ - Anisimov, Vladimir V. "Predictive event modelling in multicenter clinical trials with waiting time to response." Pharmaceutical Statistics 10.6 (2011): 517-522.
+
+SSR
+- Pritchett, Yili L., et al. "Sample size re-estimation designs in confirmatory clinical trials—current state, statistical considerations, and practical guidance." Statistics in Biopharmaceutical Research 7.4 (2015): 309-321.
+
+Sample Size / Power
+- Lachin, John M., and Mary A. Foulkes. "Evaluation of sample size and power for analyses of survival with allowance for nonuniform patient entry, losses to follow-up, noncompliance, and stratification." Biometrics (1986): 507-519.
